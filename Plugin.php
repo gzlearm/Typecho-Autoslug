@@ -3,9 +3,9 @@
  * 新建文章以日期作为Slug
  * 
  * @package Auot Slug
- * @author Z
+ * @author LeaRM
  * @version 1.0
- * @link http://blog.learm.cn/
+ * @link https://blog.learm.cn/archives/989.html
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 
